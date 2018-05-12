@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '43005'
     url: http://www.gutenberg.org/2009/agents/43005
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45036#Les-Derni-res-Ann-es-du-Marquis-et-de-la-Marquise-de-Bombelles
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2014-02-28'
 gutenberg_type: Text
