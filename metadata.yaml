@@ -1,0 +1,32 @@
+_repo: Les-Derni-res-Ann-es-du-Marquis-et-de-la-Marquise-de-Bombelles_45036
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45036-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fleury, Maurice, comte
+    aliases:
+    - Fleury, Napoléon Maurice Emile, comte
+    - Fleury, Napoleon Maurice Emile, comte
+    - Fleury, comte
+    birthdate: 1856
+    deathdate: 1921
+    gutenberg_agent_id: '43005'
+    url: http://www.gutenberg.org/2009/agents/43005
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2014-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45036'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bombelles, Angélique de Mackau, marquise de, 1762-1800'
+- !lcc 'DC'
+- !lcsh 'Bombelles, Marc, marquis de, 1744-1822'
+title: Les Dernières Années du Marquis et de la Marquise de Bombelles
+url: http://www.gutenberg.org/ebooks/45036
